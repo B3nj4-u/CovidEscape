@@ -1,4 +1,4 @@
-#Codigo creado por Francisca Ignacia Laibe y Pedro Benjamin Ulloa
+#Codigo creado por Pedro Benjamin Ulloa
 import pygame
 import sys
 import random  
